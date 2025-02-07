@@ -6,8 +6,8 @@ Este repositorio agrupa una serie de notebooks en los que se analiza el comporta
 
 **Contenido:**
 
-- **Parte 1:** análisis inicial de la deserción de usuarios, enfocándose en las diferencias en el comportamiento de conducción y uso de la app.
-- **Parte 2:** exploración de datos con visualizaciones y técnicas para el manejo de valores atípicos, examinando la relación entre variables como sesiones, viajes, kilómetros recorridos, días de actividad y tipo de dispositivo.
-- **Parte 3:** estudio más profundo utilizando un enfoque estructurado para identificar patrones de comportamiento que distinguen a los usuarios retenidos de los que abandonaron la aplicación.
+- **Parte 1: (..._2.ipynb)** análisis inicial de la deserción de usuarios, enfocándose en las diferencias en el comportamiento de conducción y uso de la app.
+- **Parte 2 (..._3.ipynb):** exploración de datos con visualizaciones y técnicas para el manejo de valores atípicos, examinando la relación entre variables como sesiones, viajes, kilómetros recorridos, días de actividad y tipo de dispositivo.
+- **Parte 3 (..._4.ipynb):** estudio más profundo utilizando un enfoque estructurado para identificar patrones de comportamiento que distinguen a los usuarios retenidos de los que abandonaron la aplicación.
 
 Cada notebook muestra de forma práctica cómo transformar datos en información relevante para comprender mejor el uso de la aplicación y orientar estrategias de retención.
